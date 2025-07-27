@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+.menu{
+    width: 25%;
+   
+
+}
+navbar{
+    color: brown;
+    padding: 3px;
+
+}
+.main_content{
+    /* width: 75%; */
+    /* border: 1px solid black; */
+    /* margin-left: 250px;
+    margin-top: 20px;  */
+}
+h3,h5{
+    display: inline;
+    background-color: black;
+    color: white;
+
+}
+
+
